@@ -42,9 +42,9 @@ public class SLLMain {
 //        singlyLinkedList.printLinkList();
 //
 //        System.out.println("---------------------------");
-////        singlyLinkedList.deleteFirstNode();
-////        singlyLinkedList.deleteLastNode();
-////        int l= (int)singlyLinkedList.findMiddleNode();
+//        singlyLinkedList.deleteFirstNode();
+//        singlyLinkedList.deleteLastNode();
+//        int l= (int)singlyLinkedList.findMiddleNode();
 //        singlyLinkedList.deleteMiddleNode();
 //        singlyLinkedList.printLinkList();
 //        int y= singlyLinkedList.getPosition(11);
@@ -53,7 +53,7 @@ public class SLLMain {
 //        System.out.println("---------------------------");
 //        singlyLinkedList.printLinkList();
 //
-////        System.out.println("head="+singlyLinkedList.getHead().getData());
+//        System.out.println("head="+singlyLinkedList.getHead().getData());
 //        ImplementStackUsingLinkedList stack = new ImplementStackUsingLinkedList();
 //        System.out.println("-----------------");
 //        stack.Push(12);
@@ -67,21 +67,21 @@ public class SLLMain {
 //        System.out.println("-----------------");
 //        stack.printStack();
 //        System.out.println("====================================");
-////        ListNode listNode= traverseNthNodeFromEnd.EndTraverse(1);
-////        if(listNode!=null) {
-////            System.out.println(" nth node from end"+listNode.getData());
-////        }
-//////        else{
-//////            System.out.println("null");
-//////        }
-////        singlyLinkedList.printLinkList();
-////       ListNode listNode1= traverseNthNodeFromEnd.EndTraverse(4);
-////        System.out.println("node="+listNode1.getData());
+//        ListNode listNode= traverseNthNodeFromEnd.EndTraverse(1);
+//        if(listNode!=null) {
+//            System.out.println(" nth node from end"+listNode.getData());
+//        }
+//        else{
+//            System.out.println("null");
+//        }
 //        singlyLinkedList.printLinkList();
-////        ListNode head = singlyLinkedList.getHead();
+//       ListNode listNode1= traverseNthNodeFromEnd.EndTraverse(4);
+//        System.out.println("node="+listNode1.getData());
+//        singlyLinkedList.printLinkList();
+//        ListNode head = singlyLinkedList.getHead();
 //        reverseSLList.reverseSLL();
 //        System.out.println("-------------------------------------");
-////        singlyLinkedList.setHead(head);
+//        singlyLinkedList.setHead(head);
 //        singlyLinkedList.printLinkList();
 //        ---------------------------------------------------------------------------------------------------------------
 //        System.out.println("Exchange Adjacent node =========================");
